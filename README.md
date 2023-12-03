@@ -1,6 +1,6 @@
 <h1 align="center">Hey Fellow Devs! 👋</h1>
 
-<p align="center"><strong><code> 🌌💡Digital Craftsman (Electrical Engineer/Blogger/Innovator/Developer)</code></strong></p>
+<p align="center"><strong><code>🌌💡 Digital Craftsman (Electrical Engineer/Blogger/Innovator/Developer)</code></strong></p>
 
 ## 🚀 About Me:
 ```json
