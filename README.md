@@ -1,6 +1,8 @@
 # Hello there! 👋
+<br />
 
 **`Digital Craftsman (Electrical Engineer/Blogger/Innovator/Developer)`**
+<br />
 
 ## 🚀 About Me:
 ```json
@@ -15,6 +17,7 @@
   "goal": "make tech accessible and exciting"
 }
 ```
+<br />
 
 My coding endeavors reflect a commitment to precision and innovation. Armed with proficiency in C++, Java, and Python, I build projects that go beyond lines of code, addressing real-world challenges with a hands-on approach. From planning and design to solving complex problems, my projects exemplify a dedication to excellence. Currently exploring the world of Fusion 360, Altium Designer, and Arduino, I'm on a mission to make tech accessible and exciting.
 
@@ -23,6 +26,7 @@ Interning as a Project Coordinator at Zntel Consulting Inc. honed my skills in p
 My GitHub is a mix of projects like the MediEase Medication Dispensing Machine (STM32 microcontroller, PlatformIO) and the Skittle Sorter (C++, Arduino Nano). From coding to volunteering as a Pandemic Volunteer at William Osler Health System, my journey is a fusion of tech, creativity, and community impact.
 
 Let's connect, collaborate, and craft something extraordinary! 🌐✨
+<br />
 
 ### 🧰 Languages and Tools:
 
@@ -38,6 +42,7 @@ Let's connect, collaborate, and craft something extraordinary! 🌐✨
 - 🌱 I’m currently building my own website!
 - 👯 I participate in coding challenges and I am always open to collaborate on projects
 - 🍔🥗🍜 Fun fact: I love cooking!
+<br />
 
 ### 📧🤝🌐 Reach out:
 
