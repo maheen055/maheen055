@@ -38,6 +38,7 @@ Let's connect, collaborate, and craft something extraordinary! 🌐✨
 
 
 ### 👩‍💻✨ What I'm Up To:
+- 📱 Working on crafting an iOS app—soon to be a vibrant social media platform!
 - 🌱 I’m currently building my own website!
 - 👯 I participate in coding challenges and I am always open to collaborate on projects
 - 🍔🥗🍜 Fun fact: I love cooking!
