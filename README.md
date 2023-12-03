@@ -11,7 +11,7 @@
   "school" : "University of Waterloo",
   "program" : "Electrical Engineering",
   "year" : "first-year",
-  "job-searching" : true, ///always
+  "job-searching" : true, '///'always
   "prev-experience" : ["Project Coordinator @ Zntel Consulting Inc."],
   "goal" : "make tech accessible and exciting"
 }
@@ -29,7 +29,7 @@ Let's connect, collaborate, and craft something extraordinary! 🌐✨
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-
+''
 
 ### 👩‍💻✨ What I'm Up To:
 - 🌱 I’m currently building my own website!
