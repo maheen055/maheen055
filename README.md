@@ -6,7 +6,7 @@
 ### About Me 🚀
 ```
 {
-  "name" : "Maheen Shoaib",
+  "name" : "🌌💡Maheen Shoaib",
   "pronouns" : "she/her",
   "school" : "University of Waterloo",
   "program" : "Electrical Engineering",
