@@ -30,6 +30,7 @@ Let's connect, collaborate, and craft something extraordinary! 🌐✨
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <br />
 
+
 ### What I'm Up To 
 - 🌱 I’m currently learning various machine learning algorithms in python
 - 👯 I participate in coding challenges and am always open to collaborate on projects
