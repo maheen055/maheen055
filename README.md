@@ -3,7 +3,7 @@
 
 **`Digital Craftsman (Electrical Engineer/Blogger/Innovator/Developer)`**
 
-### About Me 🚀:
+### 🚀 About Me:
 ```
 {
   "name" : "🌌💡Maheen Shoaib",
