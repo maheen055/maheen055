@@ -14,7 +14,7 @@ Reach out:
 
 📧 Email: mshoaib@uwaterloo.ca
 
-📱 Phone: 647-539-5919
+📱 Phone: 6475395919
 
 ### 🧰 Languages and Tools
 
@@ -25,10 +25,6 @@ Reach out:
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <br />
 
- <summary><h3>👨‍💻 Maheen's Journey</h3></summary>
-Hey there! 👋 I'm Maheen Shoaib, a tech enthusiast and Electrical Engineering student at the University of Waterloo 🚀. Proficient in C++, Java, and Python, I love diving into projects that blend theory with hands-on skills. Currently exploring the world of Fusion 360, Altium Designer, and Arduino IDE, I'm on a mission to make tech accessible and exciting.
-
-Interning as a Project Coordinator at Zntel Consulting Inc. honed my skills in project management, VBA scripting, and AutoCAD. Passionate about diversity, I served as the President of the Women in STEM club, sparking engagement and fostering inclusivity.
-
-My GitHub is a mix of projects like the MediEase Medication Dispensing Machine (STM32 microcontroller, PlatformIO) and the Skittle Sorter (C++, Arduino Nano). From coding to volunteering as a Pandemic Volunteer at William Osler Health System, my journey is a fusion of tech, creativity, and community impact.
+<summary><h3> Maheen's Journey</h3></summary>
+ Hey there! 👋 I'm Maheen Shoaib, a tech enthusiast and Electrical Engineering student at the University of Waterloo 🚀. Proficient in C++, Java, and Python, I love diving into projects that blend theory with hands-on skills. Currently exploring the world of Fusion 360, Altium Designer, and Arduino IDE, I'm on a mission to make tech accessible and exciting. Interning as a Project Coordinator at Zntel Consulting Inc. honed my skills in project management, VBA scripting, and AutoCAD. Passionate about diversity, I served as the President of the Women in STEM club, sparking engagement and fostering inclusivity. My GitHub is a mix of projects like the MediEase Medication Dispensing Machine (STM32 microcontroller, PlatformIO) and the Skittle Sorter (C++, Arduino Nano). From coding to volunteering as a Pandemic Volunteer at William Osler Health System, my journey is a fusion of tech, creativity, and community impact.
 
