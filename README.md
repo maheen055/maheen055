@@ -1,6 +1,4 @@
-# Hello there! 👋
-
-**`Digital Craftsman (Electrical Engineer/Blogger/Innovator/Developer)`**
+#  **`Digital Craftsman (Electrical Engineer/Blogger/Innovator/Developer)`**
 
 ## 🚀 About Me:
 ```json
