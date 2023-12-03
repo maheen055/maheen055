@@ -38,6 +38,5 @@ Let's connect, collaborate, and craft something extraordinary! 🌐✨
 
 ### 📧🤝🌐 Reach out:
 
-📧 Email: mshoaib@uwaterloo.ca
-
-📱 Phone: 6475395919
+- 📧 Email: mshoaib@uwaterloo.ca
+- 📱 Phone: 6475395919
