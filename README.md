@@ -13,6 +13,7 @@ Let's connect, collaborate, and craft something extraordinary! 🌐✨
 Reach out:
 
 📧 Email: mshoaib@uwaterloo.ca
+
 📱 Phone: 647-539-5919
 
 ### 🧰 Languages and Tools
