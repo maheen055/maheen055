@@ -21,7 +21,7 @@ My coding endeavors reflect a commitment to precision and innovation. Armed with
 
 Let's connect, collaborate, and craft something extraordinary! 🌐✨
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools:
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -31,12 +31,12 @@ Let's connect, collaborate, and craft something extraordinary! 🌐✨
 <br />
 
 
-### What I'm Up To 
+### 👩‍💻✨ What I'm Up To:
 - 🌱 I’m currently learning various machine learning algorithms in python
 - 👯 I participate in coding challenges and am always open to collaborate on projects
 - 🍣 Fun fact: I love cooking!
 
-### Reach out:
+### 📧🤝🌐 Reach out:
 
 📧 Email: mshoaib@uwaterloo.ca
 
