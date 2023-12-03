@@ -32,8 +32,8 @@ Let's connect, collaborate, and craft something extraordinary! 🌐✨
 
 
 ### 👩‍💻✨ What I'm Up To:
-- 🌱 I’m currently learning various machine learning algorithms in python
-- 👯 I participate in coding challenges and am always open to collaborate on projects
+- 🌱 I’m currently building my own website!
+- 👯 I participate in coding challenges and I am always open to collaborate on projects
 - 🍣 Fun fact: I love cooking!
 
 ### 📧🤝🌐 Reach out:
