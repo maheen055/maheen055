@@ -14,6 +14,7 @@
   "prev-experience": ["Project Coordinator @ Zntel Consulting Inc."],
   "goal": "make tech accessible and exciting"
 }
+```
 
 
 My coding endeavors reflect a commitment to precision and innovation. Armed with proficiency in C++, Java, and Python, I build projects that go beyond lines of code, addressing real-world challenges with a hands-on approach. From planning and design to solving complex problems, my projects exemplify a dedication to excellence. Currently exploring the world of Fusion 360, Altium Designer, and Arduino, I'm on a mission to make tech accessible and exciting.
