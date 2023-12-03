@@ -11,7 +11,7 @@
   "program": "Electrical Engineering",
   "year": "first-year",
   "job-searching": true, // always
-  "prev-experience": ["Project Coordinator @ Zntel Consulting Inc."],
+  "prev-experience": "Project Coordinator @ Zntel Consulting Inc.",
   "goal": "make tech accessible and exciting"
 }
 ```
