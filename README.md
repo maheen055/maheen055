@@ -16,7 +16,6 @@
 }
 ```
 <br />
-
 My coding endeavors reflect a commitment to precision and innovation. Armed with proficiency in C++, Java, and Python, I build projects that go beyond lines of code, addressing real-world challenges with a hands-on approach. From planning and design to solving complex problems, my projects exemplify a dedication to excellence. Currently exploring the world of Fusion 360, Altium Designer, and Arduino, I'm on a mission to make tech accessible and exciting.
 
 Interning as a Project Coordinator at Zntel Consulting Inc. honed my skills in project management, VBA scripting, and AutoCAD. Passionate about diversity, I served as the Founder and President of the Women in STEM club, sparking engagement and fostering inclusivity.
