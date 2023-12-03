@@ -8,9 +8,9 @@
 {
   "name" : "Maheen Shoaib",
   "pronouns" : "she/her",
-  "school" : "University of waterloo",
+  "school" : "University of Waterloo",
   "program" : "Electrical Engineering",
-  "year" : "first year",
+  "year" : "first-year",
   "job-searching" : true,
   "prev-experience" : ["Project Coordinator @ Zntel Consulting Inc."],
   "goal" : "make tech accessible and exciting"
