@@ -2,8 +2,8 @@
 
 **`Digital Craftsman (Electrical Engineer/Blogger/Innovator/Developer)`**
 
-**## 🚀 About Me:
-**```json
+## 🚀 About Me:
+```json
 {
   "name": "🌌💡Maheen Shoaib",
   "pronouns": "she/her",
@@ -26,8 +26,7 @@ My GitHub is a mix of projects like the MediEase Medication Dispensing Machine (
 Let's connect, collaborate, and craft something extraordinary! 🌐✨
 <br />
 
-**### 🧰 Languages and Tools:
-**
+### 🧰 Languages and Tools:
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -37,12 +36,11 @@ Let's connect, collaborate, and craft something extraordinary! 🌐✨
 <br />
 
 
-**### 👩‍💻✨ What I'm Up To:
-**- 🌱 I’m currently building my own website!
+### 👩‍💻✨ What I'm Up To:
+- 🌱 I’m currently building my own website!
 - 👯 I participate in coding challenges and I am always open to collaborate on projects
 - 🍔🥗🍜 Fun fact: I love cooking!
 
-**### 📧🤝🌐 Reach out:
-**
+### 📧🤝🌐 Reach out:
 - 📧 Email: mshoaib@uwaterloo.ca
 - 📱 Phone: 6475395919
