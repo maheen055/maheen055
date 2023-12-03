@@ -26,7 +26,7 @@ Let's connect, collaborate, and craft something extraordinary! 🌐✨
 - 👯 I participate in coding challenges and am always open to collaborate on projects
 - 🍣 Fun fact: I love cooking!
 
-###Reach out:
+### Reach out:
 
 📧 Email: mshoaib@uwaterloo.ca
 
