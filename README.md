@@ -35,7 +35,7 @@ Let's connect, collaborate, and craft something extraordinary! 🌐✨
 <img align="left" alt="Logisim" width="30px" style="padding-right:10px;" src="https://www.zwodnik.com/media/cache/76/8d/768db29f9bc33bdabac826fcfac3b240.png" />
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://code.visualstudio.com/assets/images/code-stable.png" />
 <img align="left" alt="Eclipse" width="30px" style="padding-right:10px;" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" />
-<img align="left" alt="Fusion 360" width="30px" style="padding-right:10px;" src="https://damassets.autodesk.net/content/dam/autodesk/www/products/new-fusion-360/images/overview/fusion-360-logo3.png" />
+<img align="left" alt="Fusion 360" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/452/autodesk-fusion-360.png" />
 <img align="left" alt="AutoCAD" width="30px" style="padding-right:10px;" src="https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo.png" />
 <img align="left" alt="Altium Designer" width="30px" style="padding-right:10px;" src="https://assets.website-files.com/5cd19234373c953dced9a059/5ce4072d367ffb442822f2d3_Logo%20Altium%20Designer.png" />
 <img align="left" alt="TinkerCAD" width="30px" style="padding-right:10px;" src="https://morseinstitute.org/wp-content/uploads/2017/12/logo-tinkercad-256.png" />
