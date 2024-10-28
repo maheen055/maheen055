@@ -3,7 +3,7 @@
 <p align="center"><strong><code>🌌💡 Digital Craftsman (Electrical Engineer/Blogger/Innovator/Developer)</code></strong></p>
 
 ### 🚀 About Me:
-```json
+```
 {
   "name": "Maheen Shoaib",
   "pronouns": "she/her",
@@ -13,7 +13,7 @@
   "job-searching": true, // always
   "goal": "make tech accessible and exciting"
 }
-
+```
 
 ### 🧰 Languages and Tools:
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
