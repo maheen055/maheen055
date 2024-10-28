@@ -13,18 +13,7 @@
   "job-searching": true, // always
   "goal": "make tech accessible and exciting"
 }
-```
-My coding endeavors reflect a commitment to precision and innovation. Armed with proficiency in C++, Java, and Python, I build projects that go beyond lines of code, addressing real-world challenges with a hands-on approach. From planning and design to solving complex problems, my projects exemplify a dedication to excellence. Currently exploring the world of Fusion 360, Altium Designer, and Arduino, I'm on a mission to make tech accessible and exciting.
-<br />
 
-Interning honed my skills in project management, VBA scripting, and AutoCAD. Passionate about diversity, I served as the Founder and President of the Women in STEM club, sparking engagement and fostering inclusivity.
-<br />
-
-My GitHub is a mix of projects like the MediEase Medication Dispensing Machine (C++, STM32 microcontroller, MG90S servos, PlatformIO extension on VS code, Fusion 360 & AutoCAD) and the Skittle Sorter (C++, Arduino Nano microcontroller, TCS 34725 RGB sensor, MG90S servos, Arduino IDE, Auto CAD). From coding to volunteering as a Pandemic Volunteer at William Osler Health System, my journey is a fusion of tech, creativity, and community impact.
-<br />
-
-Let's connect, collaborate, and craft something extraordinary! 🌐✨
-<br />
 
 ### 🧰 Languages and Tools:
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
@@ -45,8 +34,7 @@ Let's connect, collaborate, and craft something extraordinary! 🌐✨
 <br />
 
 ### 👩‍💻✨ What I'm Up To:
-- 📱 Working on crafting an iOS app—soon to be a vibrant social media platform!
-- 🌱 I’m currently building my own website!
+- 📱 Working on Battery R&D and SDR's!
 - 👯 I participate in coding challenges and I am always open to collaborate on projects
 - 🍔🥗🍜 Fun fact: I love cooking!
 
