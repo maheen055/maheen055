@@ -9,7 +9,7 @@
   "pronouns": "she/her",
   "school": "University of Waterloo",
   "program": "Electrical Engineering",
-  "year": "first-year",
+  "year": "second-year",
   "job-searching": true, // always
   "goal": "make tech accessible and exciting"
 }
