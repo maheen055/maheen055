@@ -40,4 +40,4 @@
 
 ### 📧🤝🌐 Reach out:
 - 📧 Email: mshoaib@uwaterloo.ca
-- 📱 Phone: (647) 539-5919
+- 📱 Phone: (647) 534-5919
