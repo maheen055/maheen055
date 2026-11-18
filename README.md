@@ -83,7 +83,6 @@ My experience spans telecommunications infrastructure, public-safety radio syste
 - **University of Waterloo** — RF & Embedded Systems Research Assistant
 - **RCMP National Radio Services** — Project Engineering Specialist Co-op
 - **Rodan Energy Solutions** — Electrical Engineering Co-op
-- **ZNTEL Consulting** — Project Coordinator Co-op, Network Engineering
 
 ---
 
