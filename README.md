@@ -20,7 +20,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a third-year Electrical Engineering co-op student at the University of Waterloo, interested in network infrastructure, communication protocols, embedded systems, and RF technologies.
+I'm a fourth-year Electrical Engineering co-op student at the University of Waterloo, interested in network infrastructure, communication protocols, embedded systems, and RF technologies.
 
 My experience spans telecommunications infrastructure, public-safety radio systems, hardware validation, and engineering research. I enjoy understanding how complex systems work, troubleshooting problems, and developing solutions from design through testing.
 
