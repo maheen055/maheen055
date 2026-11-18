@@ -1,43 +1,104 @@
-<h1 align="center">Hey Fellow Devs! 👋</h1>
 
-<p align="center"><strong><code>🌌💡 Digital Craftsman (Electrical Engineer/Blogger/Innovator/Developer)</code></strong></p>
+<h1 align="center">Hi, I'm Maheen Shoaib! 👋</h1>
 
-### 🚀 About Me:
-```
-{
-  "name": "Maheen Shoaib",
-  "pronouns": "she/her",
-  "school": "University of Waterloo",
-  "program": "Electrical Engineering",
-  "year": "second-year",
-  "job-searching": true, // always
-  "goal": "make tech accessible and exciting"
-}
-```
+<p align="center">
+  <strong>Electrical Engineering @ University of Waterloo</strong>
+</p>
 
-### 🧰 Languages and Tools:
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Logisim" width="30px" style="padding-right:10px;" src="https://www.zwodnik.com/media/cache/76/8d/768db29f9bc33bdabac826fcfac3b240.png" />
-<img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://code.visualstudio.com/assets/images/code-stable.png" />
-<img align="left" alt="Eclipse" width="30px" style="padding-right:10px;" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" />
-<img align="left" alt="Fusion 360" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/452/autodesk-fusion-360.png" />
-<img align="left" alt="AutoCAD" width="30px" style="padding-right:10px;" src="https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo.png" />
-<img align="left" alt="Altium Designer" width="30px" style="padding-right:10px;" src="https://assets.website-files.com/5cd19234373c953dced9a059/5ce4072d367ffb442822f2d3_Logo%20Altium%20Designer.png" />
-<img align="left" alt="TinkerCAD" width="30px" style="padding-right:10px;" src="https://morseinstitute.org/wp-content/uploads/2017/12/logo-tinkercad-256.png" />
-<img align="left" alt="Fritzing" width="30px" style="padding-right:10px;" src="https://cdn.sparkfun.com/assets/5/3/4/3/1/52b1e48a757b7f28448b4567.png" />
-<img align="left" alt="Arduino IDE" width="30px" style="padding-right:10px;" src="https://logos-download.com/wp-content/uploads/2016/09/Arduino_logo.png" />
-<br />
-<br />
+<p align="center">
+  <code>Network Engineering</code> •
+  <code>Embedded Systems</code> •
+  <code>RF & Wireless</code> •
+  <code>Hardware Validation</code>
+</p>
 
-### 👩‍💻✨ What I'm Up To:
-- 📱 Working on Battery R&D and SDR's!
-- 👯 I participate in coding challenges and I am always open to collaborate on projects
-- 🍔🥗🍜 Fun fact: I love cooking!
+<p align="center">
+  Building at the intersection of hardware, software, and communication systems.
+</p>
 
-### 📧🤝🌐 Reach out:
-- 📧 Email: mshoaib@uwaterloo.ca
-- 📱 Phone: (647) 534-5919
+---
+
+### 👩‍💻 About Me
+
+I'm a third-year Electrical Engineering co-op student at the University of Waterloo, interested in network infrastructure, communication protocols, embedded systems, and RF technologies.
+
+My experience spans telecommunications infrastructure, public-safety radio systems, hardware validation, and engineering research. I enjoy understanding how complex systems work, troubleshooting problems, and developing solutions from design through testing.
+
+- 🎓 **Education:** BASc Electrical Engineering, University of Waterloo (2028)
+- 🌐 **Interests:** Network Engineering, Wireless Communications, Embedded Systems, RF Design
+- 💼 **Incoming:** Service Router Test Co-op @ Nokia (Winter 2027)
+- 🔬 **Research:** Automotive CAN validation, RF PCB design, and electromagnetic simulation
+- 💻 **Currently exploring:** Network protocols, Python automation, Linux, and systems testing
+- 🤝 **Open to:** Engineering collaborations and future internship opportunities
+
+### 🛠️ Technical Skills
+
+**Languages & Programming**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+
+**Networking & Systems**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-2563EB?style=flat-square)
+![DNS](https://img.shields.io/badge/DNS-0F766E?style=flat-square)
+![Ethernet](https://img.shields.io/badge/Ethernet-374151?style=flat-square)
+![Mininet](https://img.shields.io/badge/Mininet-7C3AED?style=flat-square)
+
+**Hardware & Engineering Tools**
+
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-B91C1C?style=flat-square)
+![Keysight ADS](https://img.shields.io/badge/Keysight_ADS-DC2626?style=flat-square)
+![Ansys HFSS](https://img.shields.io/badge/Ansys_HFSS-FFB71B?style=flat-square)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autocad&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **TCP Protocol Implementation** | Reliable transport over UDP with three-way handshakes, sliding windows, and TCP Reno congestion control | Python, UDP, Linux, Mininet |
+| **DNS Client & Network Security** | DNS resolution, TTL-based caching, and authentication to mitigate cache-poisoning attacks | Python, DNS, UDP, HMAC |
+| **RF Low-Noise Amplifier** | 1 GHz amplifier design achieving 19.96 dB simulated gain and 0.85 dB noise figure; PCB submitted for fabrication | Keysight ADS, EM Simulation, JLCPCB |
+| **C++ ETL Pipeline** | Processing 10M+ time-series records using efficient data structures and graph algorithms | C++, BST, Hash Tables, BFS/DFS |
+| **RISC-V Embedded System** | Interrupt-driven firmware with GPIO, PLIC, and memory-mapped I/O | C, RISC-V Assembly, SiFive FE310 |
+| **FPGA Wordle Engine** | RTL game engine with self-checking testbenches and AXI-based FPGA integration | SystemVerilog, Vivado, FPGA |
+
+*Project repositories and documentation are being organized and published.*
+
+---
+
+### 🔬 Engineering & Research Experience
+
+- **Nokia** — Incoming Service Router Test Co-op, IP Routing Platform Test (Jan–Apr 2027)
+- **University of Waterloo** — RF & Embedded Systems Research Assistant
+- **RCMP National Radio Services** — Project Engineering Specialist Co-op
+- **Rodan Energy Solutions** — Electrical Engineering Co-op
+- **ZNTEL Consulting** — Project Coordinator Co-op, Network Engineering
+
+---
+
+### 🌱 Beyond Engineering
+
+When I'm not working on circuits, writing code, or debugging systems, I enjoy cooking, exploring new technologies, and finding creative ways to make engineering more accessible.
+
+### 📫 Let's Connect
+
+- 📧 **Email:** [mshoaib@uwaterloo.ca](mailto:mshoaib@uwaterloo.ca)
+- 💼 **LinkedIn:** [linkedin.com/in/maheenshoaib](https://linkedin.com/in/maheenshoaib)
+- 💻 **GitHub:** [github.com/maheen055](https://github.com/maheen055)
+
+---
+
+<p align="center">
+  <i>Always learning, building, and improving.</i>
+</p>
